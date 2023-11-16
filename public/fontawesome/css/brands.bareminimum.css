@@ -62,3 +62,7 @@
 .fa-linkedin-in:before {
   content: "\f0e1";
 }
+
+.fa-mastodon:before {
+  content: "\f4f6";
+}
